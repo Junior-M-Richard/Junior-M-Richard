@@ -1,31 +1,21 @@
-#  Salut, je suis Junior M. Richard
+#  Hello, i'm Junior M. Richard
 
- Développeur Frontend & UI Designer passionné par le design moderne, les interactions élégantes et l’accessibilité web.  
- Je crée des interfaces web responsives, bien référencées (SEO-friendly) et orientées utilisateur.
+Software Developer | IT Manager | Founder of GlobNet Services 
+Studied Telecommunications Management (Network Security) at Hope Africa University
 
 
-##  Compétences
-- HTML5, CSS3, JavaScript
-- Tailwind CSS, Bootstrap
-- Figma, Canva (UI/UX)
-- SEO on-page / bonnes pratiques
-- Git & GitHub
 
-## Projets récents
+##  Skills
+- Software Development : HTML5, JavaScript, Tailwind CSS, SEO on-page / bonnes pratiques, Django, Python Git & GitHub
+- Networking : Starlink, NanoStation, Network Administration 
+- CyberSecurity : Network & System Security, Blue Team
+
+## Recent Projects
 
 ###  [Portfolio personnel](https://github.com/juniormrichard/portfolio)
-Un site moderne pour présenter mes compétences et projets. SEO optimisé, animations CSS légères, design responsive.
+A modern site  to show my skills and projects. Optimised SEO, design responsive.
 
-### [Landing page agence web](https://github.com/juniormrichard/landing-agence)
-Page d’accueil interactive avec animations et intégration de maquettes Figma.
-
-##  UI Design & Inspiration
-J’expérimente des designs créatifs dans Figma et je les transforme en code !  
-
-
-##  Me contacter
+##  Contact me
   juniormunongorichard@gmail.com  
  www.linkedin.com/in/junior-m-richard-4a75102ab  
-
-Actuellement à la recherche d’opportunités dans le web design, le frontend ou l’intégration SEO.
 
