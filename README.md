@@ -1,6 +1,6 @@
-# 🚀 Hello, I'm Junior M. Richard
+# Hello, I'm Junior M. Richard
 
-**IT Specialist & Systems Engineer | English Communication Coach**
+**IT Specialist & Web Developer | English Communication Coach**
 
 Graduated from **Hope Africa University** in Telecommunications Engineering, I build, secure, and coach digital excellence. I treat every IT issue as a security challenge and every communication gap as an opportunity to speak up and break through.
 
